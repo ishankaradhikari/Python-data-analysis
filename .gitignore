@@ -1,0 +1,24 @@
+﻿# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Editor temporary files
+*.swp
+*.bak
+*.tmp
+
+# Generated outputs and presentations
+*.png
+*.pptx
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
